@@ -1,7 +1,7 @@
-👋 Hi, I’m @MrGodunov
-👀 I’m interested in backend
-🌱 I’m currently learning in java
-📫 mail me: veon.sar@gmail.com
+👋 Hi, I’m @MrGodunov <br>
+👀 I’m interested in backend <br>
+🌱 I’m currently learning in java <br>
+📫 mail me: veon.sar@gmail.com<br>
 
 <!---
 MrGodunov/MrGodunov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
