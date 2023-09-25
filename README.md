@@ -1,5 +1,5 @@
 👋 Hi, I’m @MrGodunov <br>
-👀 I’m interested in backend <br>
+👀 I’m QA Automation Engineer <br>
 🌱 I’m currently learning in java <br>
 📫 mail me: veon.sar@gmail.com<br>
 
