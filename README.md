@@ -64,3 +64,4 @@
 ## 📫 Контакты
 
 [![Email](https://img.shields.io/badge/Email-an.godunov@yandex.ru-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:an.godunov@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-@MrGodunov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MrGodunov)
